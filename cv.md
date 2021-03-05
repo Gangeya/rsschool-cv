@@ -10,8 +10,8 @@
 I am going to change my profession as a research engineer in the field of optics for the profession of a front-end developer.
 
 ### Skils
-1. HMTL
-2. CSS
+1. HMTL5
+2. CSS3
 3. JS
 
 Familiar with *PHP* и *WP*.
