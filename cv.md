@@ -6,15 +6,14 @@
 * **Phone**: +375 33 6936970
 * **Email**: eugenemikhalionok@gmail.com
 
-Моей целью явлется смена професси инженера-исследователь на программиста.
-Несколько лет назад был небольшой опыт работы фрилансером.
+I am going to change my profession as a research engineer in the field of optics for the profession of a front-end developer.
 
 ### Skils
 1. HMTL
 2. CSS
 3. JS
 
-Знаком с *PHP* и *WP*.
+Familiar with *PHP* и *WP*.
 
 ### Code examples
 
