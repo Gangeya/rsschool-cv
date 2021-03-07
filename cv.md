@@ -4,7 +4,7 @@
 ### Contacts
 
 * **Phone**: +375 33 6936970
-* * **Email**: eugenemikhalionok@gmail.com
+* **Email**: eugenemikhalionok@gmail.com
 
 I am going to change my profession as a research engineer in the field of optics for the profession of a front-end developer.
 
